@@ -90,3 +90,10 @@ Este código foi projetado para atender aos critérios de resiliência (teste co
 ---
 
 **Desenvolvido para a disciplina de Redes de Computadores - 2025/4.** 
+
+---
+## 🎥 Demonstração em Vídeo
+
+Para visualizar o projeto em funcionamento, incluindo os testes de resiliência e a análise dos logs das camadas, acesse o link abaixo:
+
+[![Assista ao Vídeo](https://img.shields.io/badge/YouTube-Assistir%20Vídeo-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1lQPO1VQwbDibQ28vUH0DJiGCTr2pFBqN/view?usp=drive_link)
