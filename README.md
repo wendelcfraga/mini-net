@@ -5,21 +5,13 @@ Este projeto consiste na implementação de uma pilha de protocolos de rede cust
 
 ## 🛠️ Tecnologias e Restrições
 
-* 
 **Linguagem:** Python 3.8+.
 
-
-* 
 **Bibliotecas:** Apenas bibliotecas padrão (`socket`, `threading`, `json`, `zlib`, etc.).
 
-
-* 
 **Protocolo Base:** UDP (`SOCK_DGRAM`) para todas as fases de confiabilidade.
 
-
-* 
 **Proibições:** Não é permitido o uso de frameworks de alto nível (Flask, Scapy) ou TCP após a Fase 1.
-
 
 
 ## 📂 Estrutura do Projeto
